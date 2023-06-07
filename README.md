@@ -37,7 +37,8 @@ Controllers: Controllers synchronize and control the movement of different actua
 ### Roll no: 212221230038
 ### Name: JAISON RAPHAEL V
 ![8 1](https://github.com/JaisonRaphael/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94165957/9a8cbc8d-9fcd-4519-b692-e0a6b47f00b7)
-![8 2](https://github.com/JaisonRaphael/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/asse![8 3](https://github.com/JaisonRaphael/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94165957/13c01226-35cb-4385-9fcd-d638f8d3e9ae)
+![8 2](https://github.com/JaisonRaphael/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/asse
+![8 3](https://github.com/JaisonRaphael/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94165957/13c01226-35cb-4385-9fcd-d638f8d3e9ae)
 ts/94165957/5fc6f574-7b59-4c90-a4f7-f79738132eb8)
 ![8 4](https://github.com/JaisonRaphael/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94165957/aaab068d-7475-4989-9f22-ab82cf622933)
 
